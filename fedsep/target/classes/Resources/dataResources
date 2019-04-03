@@ -1,0 +1,4 @@
+browser = firefox
+URL=https://egovtest.eeoc.gov/FedSep/jsp/secure/login.jsf
+Username= fedsep2017@outlook.com
+Password= Passw0rd@

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7016" started-at="2019-04-03T14:24:31Z" finished-at="2019-04-03T14:24:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7016" started-at="2019-04-03T14:24:31Z" finished-at="2019-04-03T14:24:38Z">
+      <class name="fedsep.Login">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:fedsep.Login@4efbca5a]" name="initialize" is-config="true" duration-ms="5169" started-at="2019-04-03T14:24:31Z" finished-at="2019-04-03T14:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginPages()[pri:0, instance:fedsep.Login@4efbca5a]" name="loginPages" duration-ms="944" started-at="2019-04-03T14:24:36Z" finished-at="2019-04-03T14:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPages -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fedsep.Login@4efbca5a]" name="tearDown" is-config="true" duration-ms="875" started-at="2019-04-03T14:24:37Z" finished-at="2019-04-03T14:24:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fedsep.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
